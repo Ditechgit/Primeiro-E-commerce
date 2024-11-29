@@ -4,7 +4,7 @@
 
  Projeto feito com HTML, CSS e JavaScript.
 
- O projeto Amellie constitui de: 
+ O projeto E-commerce constitui de: 
 
  7 arquivos HTML, onde consta, página do carrinho de compras, página de conta onde fica o formulário de Login e Cadastro
  página de contatos que possui um formulário para as pessoas colocarem nome, email e a mensagem para o suporte da loja, página
