@@ -18,7 +18,6 @@
  2 arquivos JavaScript, um se chama “script.js”, que foi onde coloquei os scripts de scroll, que ao descer o menu de 
  transparente passa a ser branco, e também foi onde ficou o script do arquivo “conta.html” que adiciona o evento de clicar na 
  opção e ele ativar a função ‘active’ ou desativa ela também. E no segundo arquivo “allpages.js” ficou em conjunto com o 
- arquivo “todos.css”, pois ajudou na hora que as informações dentro da tag "<Main>" não conflitassem com a imagem de fundo da
- tag "<Header>".
+ arquivo “todos.css”, pois ajudou na hora que as informações dentro da tag "Main" não conflitassem com a imagem de fundo da tag "Header".-->
 
 
