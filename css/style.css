@@ -1025,11 +1025,9 @@ input:focus {
 
 /* ---------------------------------------- Resposividade -------------------------------------------------- */
 @media (max-width: 1000px) {
+
 	.col-4 {
-		width: 45px;
-	}
-	.product{
-		width: 100%;
+		width: 40%;
 	}
 }
 
@@ -1040,7 +1038,7 @@ input:focus {
 	}
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 800px) {
 	.hideMobile {
 		display: none;
 	}
@@ -1112,7 +1110,7 @@ input:focus {
 	}
 
 	.col-4 {
-		width: 40%;
+		width: 100%;
 	}
 
 	.col-4 h3 {
@@ -1161,7 +1159,7 @@ input:focus {
 
 }
 
-@media (min-width: 1000px) {
+@media (min-width: 800px) {
 	.hideDesktop {
 		display: none;
 	}
