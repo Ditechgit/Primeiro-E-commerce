@@ -1028,6 +1028,9 @@ input:focus {
 	.col-4 {
 		width: 45px;
 	}
+	.product{
+		width: 100%;
+	}
 }
 
 
@@ -1037,7 +1040,7 @@ input:focus {
 	}
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1000px) {
 	.hideMobile {
 		display: none;
 	}
@@ -1158,7 +1161,7 @@ input:focus {
 
 }
 
-@media (min-width: 800px) {
+@media (min-width: 1000px) {
 	.hideDesktop {
 		display: none;
 	}
